@@ -2,6 +2,6 @@
   <div>
     <NuxtRouteAnnouncer />
     <NuxtWelcome />
-    testing commits
+    Testing PRs
   </div>
 </template>
